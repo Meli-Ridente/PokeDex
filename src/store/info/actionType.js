@@ -1,0 +1,3 @@
+export const GET_POKEMON = 'GET_POKEMON'
+export const GET_POKEMON_OK = 'GET_POKEMON_OK'
+export const GET_POKEMON_FAIL = 'GET_POKEMON_FAIL'
